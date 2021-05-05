@@ -1,0 +1,15 @@
+-A new task
+Task1, ProjABC,03/14/2020
+-A new task
+Task1, ProjXYZ, 04/15/2020
+-A new task
+Task2, ProjABC,04/20/2020
+-A completed task
+Task1, ProjABC, 03/14/2020, 04/14/2020
+-A completed task
+Task2, ProjABC, 02/20/2020, 04/20/2020
+-People assigned to task2
+Task1, ProjABC, Mary Jones, mjones@somewhere.com, contract
+Task2, ProjABC, John Smith, jsmith@somewhere.com, staff
+-A canceled project
+ProjXYZ, cancelled

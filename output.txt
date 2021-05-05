@@ -1,0 +1,16 @@
+No.of Projects Canceled:1
+==========================================
+No.of Projects Completed:1
+==========================================
+No.of Projects Active:1
+==========================================
+A list of Completed Projects information below.
+
+ Project Id:ProjABC
+ No.Of Tasks:2
+ Start Date:Thu Feb 20 00:00:00 PST 2020
+ Completed Date:Mon Apr 20 00:00:00 PDT 2020
+ No.of Staff:1
+ No.of Contract Employees:1
+List of Employees (Staff and Contract employees) assigned to the project:MaryJones, JohnSmith, 
+******************************************
